@@ -1,6 +1,6 @@
 {
   "name": "whenty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute a function when a condition return true",
   "main": "dist/index.js",
   "scripts": {

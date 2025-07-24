@@ -211,6 +211,6 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 To run the test suite for Whenty, clone the repository and ensure you have [Bun](https://bun.sh/) installed. Then, execute the following commands in the project root:
 
 ```bash
-bun install
-bun test
+npm i
+npm test
 ```
