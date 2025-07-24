@@ -1,0 +1,16 @@
+{
+  "name": "whenty",
+  "version": "1.0.0",
+  "description": "Execute a function when a condition return true",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "bun test.ts",
+    "build": "tsc"
+  },
+  "author": "Alataq",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
